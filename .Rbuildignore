@@ -2,3 +2,4 @@
 ^renv\.lock$
 ^R-package-template\.Rproj$
 ^\.Rproj\.user$
+^\.github$
